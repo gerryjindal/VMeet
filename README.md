@@ -43,6 +43,3 @@ _Meeting Summary Screen_
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## Contact
-
-For any inquiries or questions, please contact [soumyaamakkar@gmail.com](mailto:soumyaamakkar@gmail.com).
